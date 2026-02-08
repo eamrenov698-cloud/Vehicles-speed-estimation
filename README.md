@@ -15,4 +15,13 @@
 
 [![Watch the video](https://img.youtube.com/vi/b5JinaV3cU4/maxresdefault.jpg)](https://youtu.be/b5JinaV3cU4)
 
+## Стек технологий
+
+- Компьютерное зрение и детекция объектов - YOLO(Ultralytics), Roboflow, Supervision
+- Трекинг объектов - ByteTrack
+- Вычисления - NumPy
+- Обработка видео - OpenCV
+
+  ---
+  
 Всю последовательность действий вы сможете увидеть в самом файле "vehicles speed estimation.ipynb".
