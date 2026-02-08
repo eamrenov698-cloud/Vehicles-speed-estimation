@@ -14,3 +14,5 @@
 ## Результат модели
 
 [![Watch the video](https://img.youtube.com/vi/b5JinaV3cU4/maxresdefault.jpg)](https://youtu.be/b5JinaV3cU4)
+
+Всю последовательность действий вы сможете увидеть в самом файле "vehicles speed estimation.ipynb"
